@@ -1,4 +1,4 @@
-Network diagrams is a web app to upload and display network diagrams at an ISP vfor internal use
+Network diagrams is a web app to upload and display network diagrams at an ISP for internal use
 
 there are three components to it
 
