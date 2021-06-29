@@ -1,0 +1,128 @@
+{
+    "_scroll_id": "DXF1ZXJ5QW5kRmV0Y2gBAAAAAABGU-QWbk5KclpRQzJUUHFtT1ZaYi1adnZhZw==",
+    "took": 5,
+    "timed_out": false,
+    "_shards": {
+        "total": 1,
+        "successful": 1,
+        "skipped": 0,
+        "failed": 0
+    },
+    "hits": {
+        "total": {
+            "value": 7,
+            "relation": "eq"
+        },
+        "max_score": 1.0,
+        "hits": [
+            {
+                "_index": "production_1",
+                "_type": "_doc",
+                "_id": "9z7g43EBtzob5PYlR37S",
+                "_score": 1.0,
+                "_source": {
+                    "Id": "440bcd90-d872-4fea-8721-a2ac4f4d1cd9",
+                    "Filename": "upload-024181668--production_1.png",
+                    "Description": "company 1",
+                    "Version": "1.0",
+                    "Tags": [
+                        "branch"
+                    ]
+                }
+            },
+            {
+                "_index": "production_1",
+                "_type": "_doc",
+                "_id": "-D7j43EBtzob5PYlq34n",
+                "_score": 1.0,
+                "_source": {
+                    "Id": "cbef9631-5158-463b-bf3b-53753db80d54",
+                    "Filename": "upload-866301107--production_1.png",
+                    "Description": "Bank Corp",
+                    "Version": "1.0",
+                    "Tags": [
+                        "Palo Alto"
+                    ]
+                }
+            },
+            {
+                "_index": "production_1",
+                "_type": "_doc",
+                "_id": "-T7n43EBtzob5PYl-X4T",
+                "_score": 1.0,
+                "_source": {
+                    "Id": "240934b4-a087-4e6d-b781-62ecb431e96c",
+                    "Filename": "upload-637510774--production_1.png",
+                    "Description": "Init ",
+                    "Version": "0.1",
+                    "Tags": [
+                        "ARPANET"
+                    ]
+                }
+            },
+            {
+                "_index": "production_1",
+                "_type": "_doc",
+                "_id": "-j4k5HEBtzob5PYlX36l",
+                "_score": 1.0,
+                "_source": {
+                    "Id": "eb1af0ac-3a32-4ced-b188-edb4467bf5f8",
+                    "Filename": "upload-029142365--production_1.png",
+                    "Description": "office corp ",
+                    "Version": "1.0",
+                    "Tags": [
+                        "cisco",
+                        " voip "
+                    ]
+                }
+            },
+            {
+                "_index": "production_1",
+                "_type": "_doc",
+                "_id": "-z4m5HEBtzob5PYl7n71",
+                "_score": 1.0,
+                "_source": {
+                    "Id": "e3012442-968d-4196-b6d3-b01c7480b2fe",
+                    "Filename": "upload-596432664--production_1.png",
+                    "Description": "DC 1",
+                    "Version": "1.0",
+                    "Tags": [
+                        "Cumulus",
+                        " data center "
+                    ]
+                }
+            },
+            {
+                "_index": "production_1",
+                "_type": "_doc",
+                "_id": "_D4s5HEBtzob5PYlrX7C",
+                "_score": 1.0,
+                "_source": {
+                    "Id": "62dfee16-d023-4b07-a69c-87c47a8626e8",
+                    "Filename": "upload-698445719--production_1.jpg",
+                    "Description": "Retail Inc",
+                    "Version": "1.0",
+                    "Tags": [
+                        "juniper ",
+                        " HA"
+                    ]
+                }
+            },
+            {
+                "_index": "production_1",
+                "_type": "_doc",
+                "_id": "_T4u5HEBtzob5PYlH37E",
+                "_score": 1.0,
+                "_source": {
+                    "Id": "b1737d8b-3492-4348-a428-a35985695f45",
+                    "Filename": "upload-446772234--production_1.png",
+                    "Description": "Statewide LLC",
+                    "Version": "1.0",
+                    "Tags": [
+                        "juniper "
+                    ]
+                }
+            }
+        ]
+    }
+}
